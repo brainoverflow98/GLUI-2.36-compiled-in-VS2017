@@ -7,3 +7,4 @@ Both x64 and x86 libraries incldued in the link.
 3- You don't have to link it. 
 (make sure "freeglut.h" is visible in your project with the form "#include <freeglut.h>" 
 otherwise specify the path in "glui.h" header for freeglut for example "#include <GL/freeglut.h>" )
+I have also included the Manuel PDF. Refer to https://github.com/libglui/glui and http://www.cs.unc.edu/~rademach/glui/ for more info.
